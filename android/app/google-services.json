@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "595990721290",
+    "project_id": "neonatal-health-app",
+    "storage_bucket": "neonatal-health-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595990721290:android:5123adfc68bb3fa289c0f3",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8rqQitIuSgAHftVqhfUtB87zNPwb-9QM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
